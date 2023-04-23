@@ -68,13 +68,11 @@ img[alt="pic"] {
 }
 
 .funfun {
-    display: grid;
-    grid-template-columns: auto auto auto;
+    display: flex;
     min-width: 30px;
-    max-width: 70px;
     position: absolute;
     top: 0;
-    right: 30%;
+    right: 10%;
 }
 
 .login-box {
